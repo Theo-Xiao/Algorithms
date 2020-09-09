@@ -1,6 +1,4 @@
 """
-Name: Jinghong Xiao
-Student number: 20035787
 Lab 4-5; Assignment 2
 Program: This program have three parts
 Part 1: Implement and test both the BFI_Subset_Sum and HS_Subset_Sum algorithms.
