@@ -100,4 +100,4 @@ if __name__ == '__main__':
     data = read_data()
     vertices, flight_data = data[0][0], data[1:]
     matrix = graph_matrix(vertices, flight_data)
-    dijkstra(vertices, matrix, source=87, destination=57)  # my student number end of 5787
+    dijkstra(vertices, matrix, source=87, destination=57)  
