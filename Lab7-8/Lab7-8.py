@@ -1,6 +1,4 @@
 """
-Name: Jinghong Xiao
-Student number: 20035787
 Lab 7-8; Assignment 3
 Program: Huffman Coding
 This program have two parts
