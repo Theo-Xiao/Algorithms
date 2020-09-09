@@ -1,6 +1,4 @@
 """
-Name: Jinghong Xiao
-Student number: 20035787
 Lab 10-11; Assignment 4
 Program: Dynamic Programming LCS algorithm (Settling Our Differences)
 This program use to Dynamic Programming find longest common subsequence and
