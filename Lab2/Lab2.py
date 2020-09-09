@@ -1,8 +1,4 @@
 """
-Name: Jinghong Xiao
-Student number: 20035787
-Statement: "I certify that this submission contains my own work, except as noted."
-
 Program: This program is to solve a travel-planning problem, which gives user best
 arrive time from the start city to destination city.
 The program implementation based on modified version of Dijkstra's Algorithm.
